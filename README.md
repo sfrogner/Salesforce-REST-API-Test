@@ -24,9 +24,9 @@
 8. Add External Jars to build path
 Connected App Name = Test REST API
       * httpclient-"version"
-      * httpcore-<version>
-      * commons-logging-<version>
-      * commons-codec-<version>
+      * httpcore-"version"
+      * commons-logging-"version"
+      * commons-codec-"version"
       * json-20141113.jar
       
 Have fun
