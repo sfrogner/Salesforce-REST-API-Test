@@ -23,7 +23,7 @@
 7. Clone Rep
 8. Add External Jars to build path
 Connected App Name = Test REST API
-      * httpclient-<version>
+      * httpclient<version>
       * httpcore-<version>
       * commons-logging-<version>
       * commons-codec-<version>
