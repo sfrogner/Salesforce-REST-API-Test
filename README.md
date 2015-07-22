@@ -19,9 +19,7 @@
       * Selected OAuth Scopes = Full Access(full)
       * Click SAVE
       * Click Continue
-      
-      Note, You will need Consumer Key.  Click Consumer Secret and note key also.
-
+      * Note, You will need Consumer Key.  Click Consumer Secret and note key also.
 7. Clone Rep
 8. Add External Jars to build path
 Connected App Name = Test REST API
