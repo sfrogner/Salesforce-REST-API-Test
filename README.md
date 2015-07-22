@@ -5,7 +5,7 @@
 3. Install eClipse
 4. Install Http Client (Used Apache)
       * http://hc.apache.org/downloads.cgi
-      * 4.5tar.g
+      * 4.5
       * Uncompress in a folder
 5. Install JSON framework
       * http://mvnrepository.com/artifact/org.json/json
